@@ -1,0 +1,5 @@
+package com.remart_bot;
+
+public enum UserState {
+    AWAITING_START_MENU, AWAITING_SM_1, AWAITING_CONTACT, AWAITING_PROJECT, AWAITING_MENU
+}
